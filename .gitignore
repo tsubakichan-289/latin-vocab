@@ -1,0 +1,17 @@
+/target/
+/data/cache/
+*.sqlite3*
+__pycache__/
+/.venv/
+
+# Local credentials, caches, and editor state
+.env
+.env.*
+.aws/
+.codex/
+.agents/
+.cache/
+.cargo-home/
+.cargo-cache/
+__pycache__/
+.DS_Store

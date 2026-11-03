@@ -1,0 +1,6568 @@
+{
+  "edition": "classical-school-1",
+  "rules": [
+    {
+      "lemma": "ego",
+      "pos": "Pronoun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular"
+          ],
+          [
+            "nominative",
+            "egō̆"
+          ],
+          [
+            "genitive",
+            "meī"
+          ],
+          [
+            "dative",
+            "mihī̆"
+          ],
+          [
+            "accusative",
+            "mē mēmē"
+          ],
+          [
+            "ablative",
+            "mē mēmē"
+          ],
+          [
+            "vocative",
+            "egō̆"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "",
+            "first",
+            "second",
+            "third",
+            "third",
+            "third",
+            "reflexive",
+            "",
+            "first",
+            "second",
+            "third",
+            "third",
+            "third",
+            "reflexive"
+          ],
+          [
+            "",
+            "",
+            "first",
+            "second",
+            "m",
+            "f",
+            "n",
+            "reflexive",
+            "",
+            "first",
+            "second",
+            "m",
+            "f",
+            "n",
+            "reflexive"
+          ],
+          [
+            "nominative",
+            "nominative",
+            "egō̆",
+            "tū",
+            "is",
+            "ea",
+            "id",
+            "—",
+            "",
+            "nōs",
+            "vōs",
+            "eī iī",
+            "eae",
+            "ea",
+            "—"
+          ],
+          [
+            "genitive",
+            "objective",
+            "meī mīs 1",
+            "tuī tīs 1",
+            "eius",
+            "eius",
+            "eius",
+            "suī",
+            "",
+            "nostrī",
+            "vestrī vostrī 1",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum",
+            "suī"
+          ],
+          [
+            "genitive",
+            "partitive",
+            "meī mīs 1",
+            "tuī tīs 1",
+            "eius",
+            "eius",
+            "eius",
+            "suī",
+            "",
+            "nostrum",
+            "vestrum vostrum 1",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum",
+            "suī"
+          ],
+          [
+            "dative",
+            "dative",
+            "mihī̆ mī",
+            "tibī̆",
+            "eī",
+            "eī",
+            "eī",
+            "sibī̆",
+            "",
+            "nōbīs",
+            "vōbīs",
+            "eīs",
+            "eīs",
+            "eīs",
+            "sibī̆"
+          ],
+          [
+            "accusative",
+            "accusative",
+            "mē mēmē 2+3 mēd 1",
+            "tē tētē 2+3 tēd 1",
+            "eum",
+            "eam",
+            "id",
+            "sē sēsē 2",
+            "",
+            "nōs",
+            "vōs",
+            "eōs",
+            "eās",
+            "ea",
+            "sē sēsē 2"
+          ],
+          [
+            "ablative",
+            "ablative",
+            "mē mēmē 2+3 mēd 1",
+            "tē tētē 2+3 tēd 1",
+            "eō",
+            "eā",
+            "eō",
+            "sē sēsē 2",
+            "",
+            "nōbīs",
+            "vōbīs",
+            "eīs",
+            "eīs",
+            "eīs",
+            "sē sēsē 2"
+          ],
+          [
+            "vocative",
+            "vocative",
+            "egō̆",
+            "tū",
+            "—",
+            "—",
+            "—",
+            "—",
+            "",
+            "nōs",
+            "vōs",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "egō",
+            "nōs"
+          ],
+          [
+            "genitive",
+            "meī",
+            "nostrī nostrum"
+          ],
+          [
+            "dative",
+            "mihi",
+            "nōbīs"
+          ],
+          [
+            "accusative",
+            "mē",
+            "nōs"
+          ],
+          [
+            "ablative",
+            "mē",
+            "nōbīs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "egō̆ ( first person , nominative , plural nōs )",
+      "principal_parts": "egō̆ ( first person , nominative , plural nōs )"
+    },
+    {
+      "lemma": "tū",
+      "pos": "Pronoun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular"
+          ],
+          [
+            "nominative",
+            "tū"
+          ],
+          [
+            "genitive",
+            "tuī"
+          ],
+          [
+            "dative",
+            "tibī̆"
+          ],
+          [
+            "accusative",
+            "tē tētē"
+          ],
+          [
+            "ablative",
+            "tē tētē"
+          ],
+          [
+            "vocative",
+            "tū"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "",
+            "first",
+            "second",
+            "third",
+            "third",
+            "third",
+            "reflexive",
+            "",
+            "first",
+            "second",
+            "third",
+            "third",
+            "third",
+            "reflexive"
+          ],
+          [
+            "",
+            "",
+            "first",
+            "second",
+            "m",
+            "f",
+            "n",
+            "reflexive",
+            "",
+            "first",
+            "second",
+            "m",
+            "f",
+            "n",
+            "reflexive"
+          ],
+          [
+            "nominative",
+            "nominative",
+            "egō̆",
+            "tū",
+            "is",
+            "ea",
+            "id",
+            "—",
+            "",
+            "nōs",
+            "vōs",
+            "eī iī",
+            "eae",
+            "ea",
+            "—"
+          ],
+          [
+            "genitive",
+            "objective",
+            "meī mīs 1",
+            "tuī tīs 1",
+            "eius",
+            "eius",
+            "eius",
+            "suī",
+            "",
+            "nostrī",
+            "vestrī vostrī 1",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum",
+            "suī"
+          ],
+          [
+            "genitive",
+            "partitive",
+            "meī mīs 1",
+            "tuī tīs 1",
+            "eius",
+            "eius",
+            "eius",
+            "suī",
+            "",
+            "nostrum",
+            "vestrum vostrum 1",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum",
+            "suī"
+          ],
+          [
+            "dative",
+            "dative",
+            "mihī̆ mī",
+            "tibī̆",
+            "eī",
+            "eī",
+            "eī",
+            "sibī̆",
+            "",
+            "nōbīs",
+            "vōbīs",
+            "eīs",
+            "eīs",
+            "eīs",
+            "sibī̆"
+          ],
+          [
+            "accusative",
+            "accusative",
+            "mē mēmē 2+3 mēd 1",
+            "tē tētē 2+3 tēd 1",
+            "eum",
+            "eam",
+            "id",
+            "sē sēsē 2",
+            "",
+            "nōs",
+            "vōs",
+            "eōs",
+            "eās",
+            "ea",
+            "sē sēsē 2"
+          ],
+          [
+            "ablative",
+            "ablative",
+            "mē mēmē 2+3 mēd 1",
+            "tē tētē 2+3 tēd 1",
+            "eō",
+            "eā",
+            "eō",
+            "sē sēsē 2",
+            "",
+            "nōbīs",
+            "vōbīs",
+            "eīs",
+            "eīs",
+            "eīs",
+            "sē sēsē 2"
+          ],
+          [
+            "vocative",
+            "vocative",
+            "egō̆",
+            "tū",
+            "—",
+            "—",
+            "—",
+            "—",
+            "",
+            "nōs",
+            "vōs",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "tū",
+            "vōs"
+          ],
+          [
+            "genitive",
+            "tuī",
+            "vestrī vestrum"
+          ],
+          [
+            "dative",
+            "tibi",
+            "vōbīs"
+          ],
+          [
+            "accusative",
+            "tē",
+            "vōs"
+          ],
+          [
+            "ablative",
+            "tē",
+            "vōbīs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "tū ( second person singular , possessive adjective tuus )",
+      "principal_parts": "tū ( second person singular , possessive adjective tuus )"
+    },
+    {
+      "lemma": "is",
+      "pos": "Pronoun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "is",
+            "ea",
+            "id",
+            "",
+            "iī 1 eī ī",
+            "eae",
+            "ea"
+          ],
+          [
+            "genitive",
+            "eius ejus",
+            "eius ejus",
+            "eius ejus",
+            "",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum"
+          ],
+          [
+            "dative",
+            "eī 2 e͡i ēī",
+            "eī 2 e͡i ēī eae",
+            "eī 2 e͡i ēī",
+            "",
+            "iīs 1 eīs īs ībus",
+            "iīs 1 eīs īs eābus",
+            "iīs 1 eīs īs"
+          ],
+          [
+            "accusative",
+            "eum",
+            "eam",
+            "id",
+            "",
+            "eōs",
+            "eās",
+            "ea"
+          ],
+          [
+            "ablative",
+            "eō",
+            "eā",
+            "eō",
+            "",
+            "iīs 1 eīs īs",
+            "iīs 1 eīs īs",
+            "iīs 1 eīs īs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "",
+            "first",
+            "second",
+            "third",
+            "third",
+            "third",
+            "reflexive",
+            "",
+            "first",
+            "second",
+            "third",
+            "third",
+            "third",
+            "reflexive"
+          ],
+          [
+            "",
+            "",
+            "first",
+            "second",
+            "m",
+            "f",
+            "n",
+            "reflexive",
+            "",
+            "first",
+            "second",
+            "m",
+            "f",
+            "n",
+            "reflexive"
+          ],
+          [
+            "nominative",
+            "nominative",
+            "egō̆",
+            "tū",
+            "is",
+            "ea",
+            "id",
+            "—",
+            "",
+            "nōs",
+            "vōs",
+            "eī iī",
+            "eae",
+            "ea",
+            "—"
+          ],
+          [
+            "genitive",
+            "objective",
+            "meī mīs 1",
+            "tuī tīs 1",
+            "eius",
+            "eius",
+            "eius",
+            "suī",
+            "",
+            "nostrī",
+            "vestrī vostrī 1",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum",
+            "suī"
+          ],
+          [
+            "genitive",
+            "partitive",
+            "meī mīs 1",
+            "tuī tīs 1",
+            "eius",
+            "eius",
+            "eius",
+            "suī",
+            "",
+            "nostrum",
+            "vestrum vostrum 1",
+            "eōrum eum",
+            "eārum",
+            "eōrum eum",
+            "suī"
+          ],
+          [
+            "dative",
+            "dative",
+            "mihī̆ mī",
+            "tibī̆",
+            "eī",
+            "eī",
+            "eī",
+            "sibī̆",
+            "",
+            "nōbīs",
+            "vōbīs",
+            "eīs",
+            "eīs",
+            "eīs",
+            "sibī̆"
+          ],
+          [
+            "accusative",
+            "accusative",
+            "mē mēmē 2+3 mēd 1",
+            "tē tētē 2+3 tēd 1",
+            "eum",
+            "eam",
+            "id",
+            "sē sēsē 2",
+            "",
+            "nōs",
+            "vōs",
+            "eōs",
+            "eās",
+            "ea",
+            "sē sēsē 2"
+          ],
+          [
+            "ablative",
+            "ablative",
+            "mē mēmē 2+3 mēd 1",
+            "tē tētē 2+3 tēd 1",
+            "eō",
+            "eā",
+            "eō",
+            "sē sēsē 2",
+            "",
+            "nōbīs",
+            "vōbīs",
+            "eīs",
+            "eīs",
+            "eīs",
+            "sē sēsē 2"
+          ],
+          [
+            "vocative",
+            "vocative",
+            "egō̆",
+            "tū",
+            "—",
+            "—",
+            "—",
+            "—",
+            "",
+            "nōs",
+            "vōs",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "is",
+            "ea",
+            "id",
+            "",
+            "iī",
+            "eae",
+            "ea"
+          ],
+          [
+            "genitive",
+            "eius",
+            "eius",
+            "eius",
+            "",
+            "eōrum",
+            "eārum",
+            "eōrum"
+          ],
+          [
+            "dative",
+            "eī",
+            "eī",
+            "eī",
+            "",
+            "iīs",
+            "iīs",
+            "iīs"
+          ],
+          [
+            "accusative",
+            "eum",
+            "eam",
+            "id",
+            "",
+            "eōs",
+            "eās",
+            "ea"
+          ],
+          [
+            "ablative",
+            "eō",
+            "eā",
+            "eō",
+            "",
+            "iīs",
+            "iīs",
+            "iīs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "is ( feminine ea , neuter id ) ; demonstrative pronoun",
+      "principal_parts": "is ( feminine ea , neuter id ) ; demonstrative pronoun"
+    },
+    {
+      "lemma": "hic",
+      "pos": "Pronoun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "hic",
+            "haec",
+            "hoc",
+            "",
+            "hī",
+            "hae",
+            "haec"
+          ],
+          [
+            "genitive",
+            "huius",
+            "huius",
+            "huius",
+            "",
+            "hōrum",
+            "hārum",
+            "hōrum"
+          ],
+          [
+            "dative",
+            "huic",
+            "huic",
+            "huic",
+            "",
+            "hīs hibus",
+            "hīs hibus",
+            "hīs hibus"
+          ],
+          [
+            "accusative",
+            "hunc",
+            "hanc",
+            "hoc",
+            "",
+            "hōs",
+            "hās",
+            "haec"
+          ],
+          [
+            "ablative",
+            "hōc",
+            "hāc",
+            "hōc",
+            "",
+            "hīs",
+            "hīs",
+            "hīs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "hic",
+            "haec",
+            "hoc",
+            "",
+            "hī",
+            "hae",
+            "haec"
+          ],
+          [
+            "genitive",
+            "huius",
+            "huius",
+            "huius",
+            "",
+            "hōrum",
+            "hārum",
+            "hōrum"
+          ],
+          [
+            "dative",
+            "huic",
+            "huic",
+            "huic",
+            "",
+            "hīs",
+            "hīs",
+            "hīs"
+          ],
+          [
+            "accusative",
+            "hunc",
+            "hanc",
+            "hoc",
+            "",
+            "hōs",
+            "hās",
+            "haec"
+          ],
+          [
+            "ablative",
+            "hōc",
+            "hāc",
+            "hōc",
+            "",
+            "hīs",
+            "hīs",
+            "hīs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "hic ( feminine haec , neuter hoc ) ; first / second-declension pronoun ( hic -type)",
+      "principal_parts": "hic ( feminine haec , neuter hoc ) ; first / second-declension pronoun ( hic -type)"
+    },
+    {
+      "lemma": "ille",
+      "pos": "Determiner",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "ille",
+            "illa",
+            "illud",
+            "",
+            "illī",
+            "illae",
+            "illa"
+          ],
+          [
+            "genitive",
+            "illī̆us",
+            "illī̆us",
+            "illī̆us",
+            "",
+            "illōrum",
+            "illārum",
+            "illōrum"
+          ],
+          [
+            "dative",
+            "illī",
+            "illī",
+            "illī",
+            "",
+            "illīs",
+            "illīs",
+            "illīs"
+          ],
+          [
+            "accusative",
+            "illum",
+            "illam",
+            "illud",
+            "",
+            "illōs",
+            "illās",
+            "illa"
+          ],
+          [
+            "ablative",
+            "illō",
+            "illā",
+            "illō",
+            "",
+            "illīs",
+            "illīs",
+            "illīs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "ille",
+            "illa",
+            "illud",
+            "",
+            "illī",
+            "illae",
+            "illa"
+          ],
+          [
+            "genitive",
+            "illīus",
+            "illīus",
+            "illīus",
+            "",
+            "illōrum",
+            "illārum",
+            "illōrum"
+          ],
+          [
+            "dative",
+            "illī",
+            "illī",
+            "illī",
+            "",
+            "illīs",
+            "illīs",
+            "illīs"
+          ],
+          [
+            "accusative",
+            "illum",
+            "illam",
+            "illud",
+            "",
+            "illōs",
+            "illās",
+            "illa"
+          ],
+          [
+            "ablative",
+            "illō",
+            "illā",
+            "illō",
+            "",
+            "illīs",
+            "illīs",
+            "illīs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "ille ( feminine illa , neuter illud ) ; demonstrative determiner (pronominal declension)",
+      "principal_parts": "ille ( feminine illa , neuter illud ) ; demonstrative determiner (pronominal declension)"
+    },
+    {
+      "lemma": "quis",
+      "pos": "Pronoun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "quis quī quei 1",
+            "quae quis 1 qua 2",
+            "quid",
+            "",
+            "quī quei 1 quēs 1",
+            "quae quēs 1",
+            "quae qua 2"
+          ],
+          [
+            "genitive",
+            "cuius quoius 1",
+            "cuius quoius 1",
+            "cuius quoius 1",
+            "",
+            "quōrum quium 1",
+            "quārum quium 1",
+            "quōrum quium 1"
+          ],
+          [
+            "dative",
+            "cui quoi 1 quoī / quoei 1 quoiī / quoiei 1",
+            "cui quoi 1 quoī / quoei 1 quoiī / quoiei 1",
+            "cui quoi 1 quoī / quoei 1 quoiī / quoiei 1",
+            "",
+            "quibus quīs queis 1",
+            "quibus quīs queis 1",
+            "quibus quīs queis 1"
+          ],
+          [
+            "accusative",
+            "quem",
+            "quam quem 1",
+            "quid",
+            "",
+            "quōs quēs 1",
+            "quās quēs 1",
+            "quae qua 2"
+          ],
+          [
+            "ablative",
+            "quō quī 3",
+            "quā quī 3",
+            "quō quī 3",
+            "",
+            "quibus quīs queis 1",
+            "quibus quīs queis 1",
+            "quibus quīs queis 1"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "quis",
+            "quae",
+            "quid",
+            "",
+            "quī",
+            "quae",
+            "quae"
+          ],
+          [
+            "genitive",
+            "cuius",
+            "cuius",
+            "cuius",
+            "",
+            "quōrum",
+            "quārum",
+            "quōrum"
+          ],
+          [
+            "dative",
+            "cui",
+            "cui",
+            "cui",
+            "",
+            "quibus",
+            "quibus",
+            "quibus"
+          ],
+          [
+            "accusative",
+            "quem",
+            "quam",
+            "quid",
+            "",
+            "quōs",
+            "quās",
+            "quae"
+          ],
+          [
+            "ablative",
+            "quō",
+            "quā",
+            "quō",
+            "",
+            "quibus",
+            "quibus",
+            "quibus"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "quis or quī or quei ( feminine quae or quis or qua , neuter quid ) ; interrogative / indefinite pronoun (with m optionally → n in compounds)",
+      "principal_parts": "quis or quī or quei ( feminine quae or quis or qua , neuter quid ) ; interrogative / indefinite pronoun (with m optionally → n in compounds)"
+    },
+    {
+      "lemma": "omnis",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "omnis",
+            "omne",
+            "",
+            "omnēs",
+            "omnia"
+          ],
+          [
+            "genitive",
+            "omnis",
+            "omnis",
+            "",
+            "omnium",
+            "omnium"
+          ],
+          [
+            "dative",
+            "omnī",
+            "omnī",
+            "",
+            "omnibus",
+            "omnibus"
+          ],
+          [
+            "accusative",
+            "omnem",
+            "omne",
+            "",
+            "omnīs omnēs",
+            "omnia"
+          ],
+          [
+            "ablative",
+            "omnī",
+            "omnī",
+            "",
+            "omnibus",
+            "omnibus"
+          ],
+          [
+            "vocative",
+            "omnis",
+            "omne",
+            "",
+            "omnēs",
+            "omnia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "omnis",
+            "omne",
+            "",
+            "omnēs",
+            "omnia"
+          ],
+          [
+            "genitive",
+            "omnis",
+            "omnis",
+            "",
+            "omnium",
+            "omnium"
+          ],
+          [
+            "dative",
+            "omnī",
+            "omnī",
+            "",
+            "omnibus",
+            "omnibus"
+          ],
+          [
+            "accusative",
+            "omnem",
+            "omne",
+            "",
+            "omnīs",
+            "omnia"
+          ],
+          [
+            "ablative",
+            "omnī",
+            "omnī",
+            "",
+            "omnibus",
+            "omnibus"
+          ],
+          [
+            "vocative",
+            "omnis",
+            "omne",
+            "",
+            "omnēs",
+            "omnia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "omnis ( neuter omne ) ; third-declension two-termination adjective",
+      "principal_parts": "omnis ( neuter omne ) ; third-declension two-termination adjective"
+    },
+    {
+      "lemma": "aliquī",
+      "pos": "Determiner",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "aliquī aliquis 1",
+            "aliqua 2",
+            "aliquod",
+            "",
+            "aliquī",
+            "aliquae 2",
+            "aliqua 2"
+          ],
+          [
+            "genitive",
+            "alicuius 3",
+            "alicuius 3",
+            "alicuius 3",
+            "",
+            "aliquōrum",
+            "aliquārum",
+            "aliquōrum"
+          ],
+          [
+            "dative",
+            "alicui 4",
+            "alicui 4",
+            "alicui 4",
+            "",
+            "aliquīs 5 aliquibus",
+            "aliquīs 5 aliquibus",
+            "aliquīs 5 aliquibus"
+          ],
+          [
+            "accusative",
+            "aliquem",
+            "aliquam",
+            "aliquod",
+            "",
+            "aliquōs",
+            "aliquās",
+            "aliqua 2"
+          ],
+          [
+            "ablative",
+            "aliquō",
+            "aliquā",
+            "aliquō",
+            "",
+            "aliquīs 5 aliquibus",
+            "aliquīs 5 aliquibus",
+            "aliquīs 5 aliquibus"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "aliquī",
+            "aliqua",
+            "aliquod",
+            "",
+            "aliquī",
+            "aliquae",
+            "aliqua"
+          ],
+          [
+            "genitive",
+            "alicuius",
+            "alicuius",
+            "alicuius",
+            "",
+            "aliquōrum",
+            "aliquārum",
+            "aliquōrum"
+          ],
+          [
+            "dative",
+            "alicui",
+            "alicui",
+            "alicui",
+            "",
+            "aliquīs",
+            "aliquīs",
+            "aliquīs"
+          ],
+          [
+            "accusative",
+            "aliquem",
+            "aliquam",
+            "aliquod",
+            "",
+            "aliquōs",
+            "aliquās",
+            "aliqua"
+          ],
+          [
+            "ablative",
+            "aliquō",
+            "aliquā",
+            "aliquō",
+            "",
+            "aliquīs",
+            "aliquīs",
+            "aliquīs"
+          ],
+          [
+            "vocative",
+            "—",
+            "—",
+            "—",
+            "",
+            "—",
+            "—",
+            "—"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "aliquī or aliquei or aliquis ( feminine aliqua , neuter aliquod ) ; indeclinable portion with a relative / interrogative determiner",
+      "principal_parts": "aliquī or aliquei or aliquis ( feminine aliqua , neuter aliquod ) ; indeclinable portion with a relative / interrogative determiner"
+    },
+    {
+      "lemma": "alter",
+      "pos": "Determiner",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "alter",
+            "altera",
+            "alterum",
+            "",
+            "alterī altrī",
+            "alterae",
+            "altera"
+          ],
+          [
+            "genitive",
+            "alterī̆us altrī̆us",
+            "alterī̆us altrī̆us",
+            "alterī̆us altrī̆us",
+            "",
+            "alterōrum",
+            "alterārum",
+            "alterōrum"
+          ],
+          [
+            "dative",
+            "alterī altrī",
+            "alterī altrī",
+            "alterī altrī",
+            "",
+            "alterīs altrīs",
+            "alterīs altrīs",
+            "alterīs altrīs"
+          ],
+          [
+            "accusative",
+            "alterum",
+            "alteram",
+            "alterum",
+            "",
+            "alterōs",
+            "alterās",
+            "altera"
+          ],
+          [
+            "ablative",
+            "alterō",
+            "alterā",
+            "alterō",
+            "",
+            "alterīs altrīs",
+            "alterīs altrīs",
+            "alterīs altrīs"
+          ],
+          [
+            "vocative",
+            "alter",
+            "altera",
+            "alterum",
+            "",
+            "alterī altrī",
+            "alterae",
+            "altera"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "alter",
+            "altera",
+            "alterum",
+            "",
+            "alterī",
+            "alterae",
+            "altera"
+          ],
+          [
+            "genitive",
+            "alterīus",
+            "alterīus",
+            "alterīus",
+            "",
+            "alterōrum",
+            "alterārum",
+            "alterōrum"
+          ],
+          [
+            "dative",
+            "alterī",
+            "alterī",
+            "alterī",
+            "",
+            "alterīs",
+            "alterīs",
+            "alterīs"
+          ],
+          [
+            "accusative",
+            "alterum",
+            "alteram",
+            "alterum",
+            "",
+            "alterōs",
+            "alterās",
+            "altera"
+          ],
+          [
+            "ablative",
+            "alterō",
+            "alterā",
+            "alterō",
+            "",
+            "alterīs",
+            "alterīs",
+            "alterīs"
+          ],
+          [
+            "vocative",
+            "alter",
+            "altera",
+            "alterum",
+            "",
+            "alterī",
+            "alterae",
+            "altera"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "alter ( feminine altera , neuter alterum ) ; first / second-declension determiner (nominative masculine singular in -er , pronominal declension)",
+      "principal_parts": "alter ( feminine altera , neuter alterum ) ; first / second-declension determiner (nominative masculine singular in -er , pronominal declension)"
+    },
+    {
+      "lemma": "ūnus",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "ūnus",
+            "ūna",
+            "ūnum",
+            "",
+            "ūnī",
+            "ūnae",
+            "ūna"
+          ],
+          [
+            "genitive",
+            "ūnī̆us ūnī",
+            "ūnī̆us ūnī",
+            "ūnī̆us ūnī",
+            "",
+            "ūnōrum",
+            "ūnārum",
+            "ūnōrum"
+          ],
+          [
+            "dative",
+            "ūnī ūnō",
+            "ūnī ūnae",
+            "ūnī ūnō",
+            "",
+            "ūnīs",
+            "ūnīs",
+            "ūnīs"
+          ],
+          [
+            "accusative",
+            "ūnum",
+            "ūnam",
+            "ūnum",
+            "",
+            "ūnōs",
+            "ūnās",
+            "ūna"
+          ],
+          [
+            "ablative",
+            "ūnō",
+            "ūnā",
+            "ūnō",
+            "",
+            "ūnīs",
+            "ūnīs",
+            "ūnīs"
+          ],
+          [
+            "vocative",
+            "ūne",
+            "ūna",
+            "ūnum",
+            "",
+            "ūnī",
+            "ūnae",
+            "ūna"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "ūnus",
+            "ūna",
+            "ūnum",
+            "",
+            "ūnī",
+            "ūnae",
+            "ūna"
+          ],
+          [
+            "genitive",
+            "ūnīus",
+            "ūnīus",
+            "ūnīus",
+            "",
+            "ūnōrum",
+            "ūnārum",
+            "ūnōrum"
+          ],
+          [
+            "dative",
+            "ūnī",
+            "ūnī",
+            "ūnī",
+            "",
+            "ūnīs",
+            "ūnīs",
+            "ūnīs"
+          ],
+          [
+            "accusative",
+            "ūnum",
+            "ūnam",
+            "ūnum",
+            "",
+            "ūnōs",
+            "ūnās",
+            "ūna"
+          ],
+          [
+            "ablative",
+            "ūnō",
+            "ūnā",
+            "ūnō",
+            "",
+            "ūnīs",
+            "ūnīs",
+            "ūnīs"
+          ],
+          [
+            "vocative",
+            "ūne",
+            "ūna",
+            "ūnum",
+            "",
+            "ūnī",
+            "ūnae",
+            "ūna"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "ūnus ( feminine ūna , neuter ūnum ) ; first / second-declension adjective (pronominal declension)",
+      "principal_parts": "ūnus ( feminine ūna , neuter ūnum ) ; first / second-declension adjective (pronominal declension)"
+    },
+    {
+      "lemma": "duo",
+      "pos": "Numeral",
+      "previous_tables": [
+        [
+          [
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "duo",
+            "duae",
+            "duo"
+          ],
+          [
+            "genitive",
+            "duōrum duum 1",
+            "duārum",
+            "duōrum duum 1"
+          ],
+          [
+            "dative",
+            "duōbus",
+            "duābus",
+            "duōbus"
+          ],
+          [
+            "accusative",
+            "duōs duo",
+            "duās",
+            "duo"
+          ],
+          [
+            "ablative",
+            "duōbus",
+            "duābus",
+            "duōbus"
+          ],
+          [
+            "vocative",
+            "duo",
+            "duae",
+            "duo"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "duo",
+            "duae",
+            "duo"
+          ],
+          [
+            "genitive",
+            "duōrum",
+            "duārum",
+            "duōrum"
+          ],
+          [
+            "dative",
+            "duōbus",
+            "duābus",
+            "duōbus"
+          ],
+          [
+            "accusative",
+            "duōs",
+            "duās",
+            "duo"
+          ],
+          [
+            "ablative",
+            "duōbus",
+            "duābus",
+            "duōbus"
+          ],
+          [
+            "vocative",
+            "duo",
+            "duae",
+            "duo"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "duo ( feminine duae , neuter duo ) ; numeral, plural only",
+      "principal_parts": "duo ( feminine duae , neuter duo ) ; numeral, plural only"
+    },
+    {
+      "lemma": "trēs",
+      "pos": "Numeral",
+      "previous_tables": [
+        [
+          [
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "trēs",
+            "tria"
+          ],
+          [
+            "genitive",
+            "trium",
+            "trium"
+          ],
+          [
+            "dative",
+            "tribus",
+            "tribus"
+          ],
+          [
+            "accusative",
+            "trīs trēs",
+            "tria"
+          ],
+          [
+            "ablative",
+            "tribus",
+            "tribus"
+          ],
+          [
+            "vocative",
+            "trēs",
+            "tria"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "trēs",
+            "tria"
+          ],
+          [
+            "genitive",
+            "trium",
+            "trium"
+          ],
+          [
+            "dative",
+            "tribus",
+            "tribus"
+          ],
+          [
+            "accusative",
+            "trīs",
+            "tria"
+          ],
+          [
+            "ablative",
+            "tribus",
+            "tribus"
+          ],
+          [
+            "vocative",
+            "trēs",
+            "tria"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "trēs ( neuter tria ) ; third-declension two-termination numeral, plural only",
+      "principal_parts": "trēs ( neuter tria ) ; third-declension two-termination numeral, plural only"
+    },
+    {
+      "lemma": "gravis",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "gravis",
+            "grave",
+            "",
+            "gravēs",
+            "gravia"
+          ],
+          [
+            "genitive",
+            "gravis",
+            "gravis",
+            "",
+            "gravium",
+            "gravium"
+          ],
+          [
+            "dative",
+            "gravī",
+            "gravī",
+            "",
+            "gravibus",
+            "gravibus"
+          ],
+          [
+            "accusative",
+            "gravem",
+            "grave",
+            "",
+            "gravīs gravēs",
+            "gravia"
+          ],
+          [
+            "ablative",
+            "gravī",
+            "gravī",
+            "",
+            "gravibus",
+            "gravibus"
+          ],
+          [
+            "vocative",
+            "gravis",
+            "grave",
+            "",
+            "gravēs",
+            "gravia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "gravis",
+            "grave",
+            "",
+            "gravēs",
+            "gravia"
+          ],
+          [
+            "genitive",
+            "gravis",
+            "gravis",
+            "",
+            "gravium",
+            "gravium"
+          ],
+          [
+            "dative",
+            "gravī",
+            "gravī",
+            "",
+            "gravibus",
+            "gravibus"
+          ],
+          [
+            "accusative",
+            "gravem",
+            "grave",
+            "",
+            "gravīs",
+            "gravia"
+          ],
+          [
+            "ablative",
+            "gravī",
+            "gravī",
+            "",
+            "gravibus",
+            "gravibus"
+          ],
+          [
+            "vocative",
+            "gravis",
+            "grave",
+            "",
+            "gravēs",
+            "gravia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "gravis ( neuter grave , comparative gravior , superlative gravissimus , adverb graviter ) ; third-declension two-termination adjective",
+      "principal_parts": "gravis ( neuter grave , comparative gravior , superlative gravissimus , adverb graviter ) ; third-declension two-termination adjective"
+    },
+    {
+      "lemma": "brevis",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "brevis",
+            "breve",
+            "",
+            "brevēs",
+            "brevia"
+          ],
+          [
+            "genitive",
+            "brevis",
+            "brevis",
+            "",
+            "brevium",
+            "brevium"
+          ],
+          [
+            "dative",
+            "brevī",
+            "brevī",
+            "",
+            "brevibus",
+            "brevibus"
+          ],
+          [
+            "accusative",
+            "brevem",
+            "breve",
+            "",
+            "brevīs brevēs",
+            "brevia"
+          ],
+          [
+            "ablative",
+            "brevī",
+            "brevī",
+            "",
+            "brevibus",
+            "brevibus"
+          ],
+          [
+            "vocative",
+            "brevis",
+            "breve",
+            "",
+            "brevēs",
+            "brevia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "brevis",
+            "breve",
+            "",
+            "brevēs",
+            "brevia"
+          ],
+          [
+            "genitive",
+            "brevis",
+            "brevis",
+            "",
+            "brevium",
+            "brevium"
+          ],
+          [
+            "dative",
+            "brevī",
+            "brevī",
+            "",
+            "brevibus",
+            "brevibus"
+          ],
+          [
+            "accusative",
+            "brevem",
+            "breve",
+            "",
+            "brevīs",
+            "brevia"
+          ],
+          [
+            "ablative",
+            "brevī",
+            "brevī",
+            "",
+            "brevibus",
+            "brevibus"
+          ],
+          [
+            "vocative",
+            "brevis",
+            "breve",
+            "",
+            "brevēs",
+            "brevia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "brevis ( neuter breve , comparative brevior , superlative brevissimus , adverb breviter ) ; third-declension two-termination adjective",
+      "principal_parts": "brevis ( neuter breve , comparative brevior , superlative brevissimus , adverb breviter ) ; third-declension two-termination adjective"
+    },
+    {
+      "lemma": "gracilis",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "gracilis",
+            "gracile",
+            "",
+            "gracilēs",
+            "gracilia"
+          ],
+          [
+            "genitive",
+            "gracilis",
+            "gracilis",
+            "",
+            "gracilium",
+            "gracilium"
+          ],
+          [
+            "dative",
+            "gracilī",
+            "gracilī",
+            "",
+            "gracilibus",
+            "gracilibus"
+          ],
+          [
+            "accusative",
+            "gracilem",
+            "gracile",
+            "",
+            "gracilīs gracilēs",
+            "gracilia"
+          ],
+          [
+            "ablative",
+            "gracilī",
+            "gracilī",
+            "",
+            "gracilibus",
+            "gracilibus"
+          ],
+          [
+            "vocative",
+            "gracilis",
+            "gracile",
+            "",
+            "gracilēs",
+            "gracilia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "gracilis",
+            "gracile",
+            "",
+            "gracilēs",
+            "gracilia"
+          ],
+          [
+            "genitive",
+            "gracilis",
+            "gracilis",
+            "",
+            "gracilium",
+            "gracilium"
+          ],
+          [
+            "dative",
+            "gracilī",
+            "gracilī",
+            "",
+            "gracilibus",
+            "gracilibus"
+          ],
+          [
+            "accusative",
+            "gracilem",
+            "gracile",
+            "",
+            "gracilīs",
+            "gracilia"
+          ],
+          [
+            "ablative",
+            "gracilī",
+            "gracilī",
+            "",
+            "gracilibus",
+            "gracilibus"
+          ],
+          [
+            "vocative",
+            "gracilis",
+            "gracile",
+            "",
+            "gracilēs",
+            "gracilia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "gracilis ( neuter gracile , comparative gracilior , superlative gracillimus , adverb graciliter ) ; third-declension two-termination adjective",
+      "principal_parts": "gracilis ( neuter gracile , comparative gracilior , superlative gracillimus , adverb graciliter ) ; third-declension two-termination adjective"
+    },
+    {
+      "lemma": "fēmina",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "fēmina",
+            "fēminae"
+          ],
+          [
+            "genitive",
+            "fēminae",
+            "fēminārum"
+          ],
+          [
+            "dative",
+            "fēminae",
+            "fēminīs fēminābus"
+          ],
+          [
+            "accusative",
+            "fēminam",
+            "fēminās"
+          ],
+          [
+            "ablative",
+            "fēminā",
+            "fēminīs fēminābus"
+          ],
+          [
+            "vocative",
+            "fēmina",
+            "fēminae"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "fēmina",
+            "fēminae"
+          ],
+          [
+            "genitive",
+            "fēminae",
+            "fēminārum"
+          ],
+          [
+            "dative",
+            "fēminae",
+            "fēminīs"
+          ],
+          [
+            "accusative",
+            "fēminam",
+            "fēminās"
+          ],
+          [
+            "ablative",
+            "fēminā",
+            "fēminīs"
+          ],
+          [
+            "vocative",
+            "fēmina",
+            "fēminae"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "fēmina f ( genitive fēminae ) ; first declension",
+      "principal_parts": "fēmina f ( genitive fēminae ) ; first declension"
+    },
+    {
+      "lemma": "vir",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "vir",
+            "virī"
+          ],
+          [
+            "genitive",
+            "virī",
+            "virōrum virum"
+          ],
+          [
+            "dative",
+            "virō",
+            "virīs"
+          ],
+          [
+            "accusative",
+            "virum",
+            "virōs"
+          ],
+          [
+            "ablative",
+            "virō",
+            "virīs"
+          ],
+          [
+            "vocative",
+            "vir",
+            "virī"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "vir",
+            "virī"
+          ],
+          [
+            "genitive",
+            "virī",
+            "virōrum"
+          ],
+          [
+            "dative",
+            "virō",
+            "virīs"
+          ],
+          [
+            "accusative",
+            "virum",
+            "virōs"
+          ],
+          [
+            "ablative",
+            "virō",
+            "virīs"
+          ],
+          [
+            "vocative",
+            "vir",
+            "virī"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "vir m ( genitive virī ) ; second declension",
+      "principal_parts": "vir m ( genitive virī ) ; second declension"
+    },
+    {
+      "lemma": "homō",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "homō̆",
+            "hominēs"
+          ],
+          [
+            "genitive",
+            "hominis",
+            "hominum"
+          ],
+          [
+            "dative",
+            "hominī",
+            "hominibus"
+          ],
+          [
+            "accusative",
+            "hominem",
+            "hominēs"
+          ],
+          [
+            "ablative",
+            "homine",
+            "hominibus"
+          ],
+          [
+            "vocative",
+            "homō̆",
+            "hominēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "homō",
+            "hominēs"
+          ],
+          [
+            "genitive",
+            "hominis",
+            "hominum"
+          ],
+          [
+            "dative",
+            "hominī",
+            "hominibus"
+          ],
+          [
+            "accusative",
+            "hominem",
+            "hominēs"
+          ],
+          [
+            "ablative",
+            "homine",
+            "hominibus"
+          ],
+          [
+            "vocative",
+            "homō",
+            "hominēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "homō̆ m ( genitive hominis ) ; third declension",
+      "principal_parts": "homō̆ m ( genitive hominis ) ; third declension"
+    },
+    {
+      "lemma": "piscis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "piscis",
+            "piscēs"
+          ],
+          [
+            "genitive",
+            "piscis",
+            "piscium"
+          ],
+          [
+            "dative",
+            "piscī",
+            "piscibus"
+          ],
+          [
+            "accusative",
+            "piscem",
+            "piscēs piscīs"
+          ],
+          [
+            "ablative",
+            "pisce",
+            "piscibus"
+          ],
+          [
+            "vocative",
+            "piscis",
+            "piscēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "piscis",
+            "piscēs"
+          ],
+          [
+            "genitive",
+            "piscis",
+            "piscium"
+          ],
+          [
+            "dative",
+            "piscī",
+            "piscibus"
+          ],
+          [
+            "accusative",
+            "piscem",
+            "piscēs"
+          ],
+          [
+            "ablative",
+            "pisce",
+            "piscibus"
+          ],
+          [
+            "vocative",
+            "piscis",
+            "piscēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "piscis m ( genitive piscis ) ; third declension",
+      "principal_parts": "piscis m ( genitive piscis ) ; third declension"
+    },
+    {
+      "lemma": "avis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "avis",
+            "avēs"
+          ],
+          [
+            "genitive",
+            "avis",
+            "avium"
+          ],
+          [
+            "dative",
+            "avī",
+            "avibus"
+          ],
+          [
+            "accusative",
+            "avem",
+            "avēs avīs"
+          ],
+          [
+            "ablative",
+            "ave avī",
+            "avibus"
+          ],
+          [
+            "vocative",
+            "avis",
+            "avēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "avis",
+            "avēs"
+          ],
+          [
+            "genitive",
+            "avis",
+            "avium"
+          ],
+          [
+            "dative",
+            "avī",
+            "avibus"
+          ],
+          [
+            "accusative",
+            "avem",
+            "avēs"
+          ],
+          [
+            "ablative",
+            "ave",
+            "avibus"
+          ],
+          [
+            "vocative",
+            "avis",
+            "avēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "avis f ( genitive avis ) ; third declension",
+      "principal_parts": "avis f ( genitive avis ) ; third declension"
+    },
+    {
+      "lemma": "pēdis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "pēdis",
+            "pēdēs"
+          ],
+          [
+            "genitive",
+            "pēdis",
+            "pēdium"
+          ],
+          [
+            "dative",
+            "pēdī",
+            "pēdibus"
+          ],
+          [
+            "accusative",
+            "pēdem",
+            "pēdēs pēdīs"
+          ],
+          [
+            "ablative",
+            "pēde",
+            "pēdibus"
+          ],
+          [
+            "vocative",
+            "pēdis",
+            "pēdēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "pēdis",
+            "pēdēs"
+          ],
+          [
+            "genitive",
+            "pēdis",
+            "pēdium"
+          ],
+          [
+            "dative",
+            "pēdī",
+            "pēdibus"
+          ],
+          [
+            "accusative",
+            "pēdem",
+            "pēdēs"
+          ],
+          [
+            "ablative",
+            "pēde",
+            "pēdibus"
+          ],
+          [
+            "vocative",
+            "pēdis",
+            "pēdēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "pēdis m ( genitive pēdis ) ; third declension",
+      "principal_parts": "pēdis m ( genitive pēdis ) ; third declension"
+    },
+    {
+      "lemma": "serpēns",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "serpēns",
+            "serpentēs"
+          ],
+          [
+            "genitive",
+            "serpentis",
+            "serpentium serpentum"
+          ],
+          [
+            "dative",
+            "serpentī",
+            "serpentibus"
+          ],
+          [
+            "accusative",
+            "serpentem",
+            "serpentēs"
+          ],
+          [
+            "ablative",
+            "serpente",
+            "serpentibus"
+          ],
+          [
+            "vocative",
+            "serpēns",
+            "serpentēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "serpēns",
+            "serpentēs"
+          ],
+          [
+            "genitive",
+            "serpentis",
+            "serpentium"
+          ],
+          [
+            "dative",
+            "serpentī",
+            "serpentibus"
+          ],
+          [
+            "accusative",
+            "serpentem",
+            "serpentēs"
+          ],
+          [
+            "ablative",
+            "serpente",
+            "serpentibus"
+          ],
+          [
+            "vocative",
+            "serpēns",
+            "serpentēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "serpēns f or m ( genitive serpentis ) ; third declension",
+      "principal_parts": "serpēns f or m ( genitive serpentis ) ; third declension"
+    },
+    {
+      "lemma": "vermis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "vermis",
+            "vermēs"
+          ],
+          [
+            "genitive",
+            "vermis",
+            "vermium"
+          ],
+          [
+            "dative",
+            "vermī",
+            "vermibus"
+          ],
+          [
+            "accusative",
+            "vermem",
+            "vermēs vermīs"
+          ],
+          [
+            "ablative",
+            "verme",
+            "vermibus"
+          ],
+          [
+            "vocative",
+            "vermis",
+            "vermēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "vermis",
+            "vermēs"
+          ],
+          [
+            "genitive",
+            "vermis",
+            "vermium"
+          ],
+          [
+            "dative",
+            "vermī",
+            "vermibus"
+          ],
+          [
+            "accusative",
+            "vermem",
+            "vermēs"
+          ],
+          [
+            "ablative",
+            "verme",
+            "vermibus"
+          ],
+          [
+            "vocative",
+            "vermis",
+            "vermēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "vermis m ( genitive vermis ) ; third declension",
+      "principal_parts": "vermis m ( genitive vermis ) ; third declension"
+    },
+    {
+      "lemma": "folium",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "folium",
+            "folia"
+          ],
+          [
+            "genitive",
+            "foliī folī 1",
+            "foliōrum"
+          ],
+          [
+            "dative",
+            "foliō",
+            "foliīs"
+          ],
+          [
+            "accusative",
+            "folium",
+            "folia"
+          ],
+          [
+            "ablative",
+            "foliō",
+            "foliīs"
+          ],
+          [
+            "vocative",
+            "folium",
+            "folia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "folium",
+            "folia"
+          ],
+          [
+            "genitive",
+            "foliī",
+            "foliōrum"
+          ],
+          [
+            "dative",
+            "foliō",
+            "foliīs"
+          ],
+          [
+            "accusative",
+            "folium",
+            "folia"
+          ],
+          [
+            "ablative",
+            "foliō",
+            "foliīs"
+          ],
+          [
+            "vocative",
+            "folium",
+            "folia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "folium n ( genitive foliī or folī ) ; second declension",
+      "principal_parts": "folium n ( genitive foliī or folī ) ; second declension"
+    },
+    {
+      "lemma": "fūnis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "fūnis",
+            "fūnēs"
+          ],
+          [
+            "genitive",
+            "fūnis",
+            "fūnium"
+          ],
+          [
+            "dative",
+            "fūnī",
+            "fūnibus"
+          ],
+          [
+            "accusative",
+            "fūnem",
+            "fūnēs fūnīs"
+          ],
+          [
+            "ablative",
+            "fūne",
+            "fūnibus"
+          ],
+          [
+            "vocative",
+            "fūnis",
+            "fūnēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "fūnis",
+            "fūnēs"
+          ],
+          [
+            "genitive",
+            "fūnis",
+            "fūnium"
+          ],
+          [
+            "dative",
+            "fūnī",
+            "fūnibus"
+          ],
+          [
+            "accusative",
+            "fūnem",
+            "fūnēs"
+          ],
+          [
+            "ablative",
+            "fūne",
+            "fūnibus"
+          ],
+          [
+            "vocative",
+            "fūnis",
+            "fūnēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "fūnis m ( genitive fūnis ) ; third declension",
+      "principal_parts": "fūnis m ( genitive fūnis ) ; third declension"
+    },
+    {
+      "lemma": "cutis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "cutis",
+            "cutēs"
+          ],
+          [
+            "genitive",
+            "cutis",
+            "cutium"
+          ],
+          [
+            "dative",
+            "cutī",
+            "cutibus"
+          ],
+          [
+            "accusative",
+            "cutem cutim",
+            "cutēs cutīs"
+          ],
+          [
+            "ablative",
+            "cute cutī",
+            "cutibus"
+          ],
+          [
+            "vocative",
+            "cutis",
+            "cutēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "cutis",
+            "cutēs"
+          ],
+          [
+            "genitive",
+            "cutis",
+            "cutium"
+          ],
+          [
+            "dative",
+            "cutī",
+            "cutibus"
+          ],
+          [
+            "accusative",
+            "cutem",
+            "cutēs"
+          ],
+          [
+            "ablative",
+            "cute",
+            "cutibus"
+          ],
+          [
+            "vocative",
+            "cutis",
+            "cutēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "cutis f ( genitive cutis ) ; third declension",
+      "principal_parts": "cutis f ( genitive cutis ) ; third declension"
+    },
+    {
+      "lemma": "carō",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "carō",
+            "carnēs"
+          ],
+          [
+            "genitive",
+            "carnis",
+            "carnum carnium"
+          ],
+          [
+            "dative",
+            "carnī",
+            "carnibus"
+          ],
+          [
+            "accusative",
+            "carnem",
+            "carnēs"
+          ],
+          [
+            "ablative",
+            "carne",
+            "carnibus"
+          ],
+          [
+            "vocative",
+            "carō",
+            "carnēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "carō",
+            "carnēs"
+          ],
+          [
+            "genitive",
+            "carnis",
+            "carnium"
+          ],
+          [
+            "dative",
+            "carnī",
+            "carnibus"
+          ],
+          [
+            "accusative",
+            "carnem",
+            "carnēs"
+          ],
+          [
+            "ablative",
+            "carne",
+            "carnibus"
+          ],
+          [
+            "vocative",
+            "carō",
+            "carnēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "carō f ( genitive carnis ) ; third declension",
+      "principal_parts": "carō f ( genitive carnis ) ; third declension"
+    },
+    {
+      "lemma": "sanguis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "sanguī̆s",
+            "sanguinēs"
+          ],
+          [
+            "genitive",
+            "sanguinis",
+            "sanguinum"
+          ],
+          [
+            "dative",
+            "sanguinī",
+            "sanguinibus"
+          ],
+          [
+            "accusative",
+            "sanguinem",
+            "sanguinēs"
+          ],
+          [
+            "ablative",
+            "sanguine",
+            "sanguinibus"
+          ],
+          [
+            "vocative",
+            "sanguī̆s",
+            "sanguinēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "sanguīs",
+            "sanguinēs"
+          ],
+          [
+            "genitive",
+            "sanguinis",
+            "sanguinum"
+          ],
+          [
+            "dative",
+            "sanguinī",
+            "sanguinibus"
+          ],
+          [
+            "accusative",
+            "sanguinem",
+            "sanguinēs"
+          ],
+          [
+            "ablative",
+            "sanguine",
+            "sanguinibus"
+          ],
+          [
+            "vocative",
+            "sanguīs",
+            "sanguinēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "sanguī̆s m ( genitive sanguinis ) ; third declension",
+      "principal_parts": "sanguī̆s m ( genitive sanguinis ) ; third declension"
+    },
+    {
+      "lemma": "os",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "os",
+            "ossa ossua"
+          ],
+          [
+            "genitive",
+            "ossis",
+            "ossium ossuum"
+          ],
+          [
+            "dative",
+            "ossī",
+            "ossibus"
+          ],
+          [
+            "accusative",
+            "os",
+            "ossa ossua"
+          ],
+          [
+            "ablative",
+            "osse",
+            "ossibus"
+          ],
+          [
+            "vocative",
+            "os",
+            "ossa ossua"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "os",
+            "ossa"
+          ],
+          [
+            "genitive",
+            "ossis",
+            "ossium"
+          ],
+          [
+            "dative",
+            "ossī",
+            "ossibus"
+          ],
+          [
+            "accusative",
+            "os",
+            "ossa"
+          ],
+          [
+            "ablative",
+            "osse",
+            "ossibus"
+          ],
+          [
+            "vocative",
+            "os",
+            "ossa"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "os n ( genitive ossis ) ; third declension",
+      "principal_parts": "os n ( genitive ossis ) ; third declension"
+    },
+    {
+      "lemma": "cornū",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "cornū̆ 1",
+            "cornua"
+          ],
+          [
+            "genitive",
+            "cornūs 2 cornū 3",
+            "cornuum"
+          ],
+          [
+            "dative",
+            "cornū 4 cornuī 2",
+            "cornibus"
+          ],
+          [
+            "accusative",
+            "cornū̆ 1",
+            "cornua"
+          ],
+          [
+            "ablative",
+            "cornū",
+            "cornibus"
+          ],
+          [
+            "vocative",
+            "cornū̆ 1",
+            "cornua"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "cornū",
+            "cornua"
+          ],
+          [
+            "genitive",
+            "cornūs",
+            "cornuum"
+          ],
+          [
+            "dative",
+            "cornū",
+            "cornibus"
+          ],
+          [
+            "accusative",
+            "cornū",
+            "cornua"
+          ],
+          [
+            "ablative",
+            "cornū",
+            "cornibus"
+          ],
+          [
+            "vocative",
+            "cornū",
+            "cornua"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "cornū̆ n ( genitive cornūs or cornū ) ; fourth declension",
+      "principal_parts": "cornū̆ n ( genitive cornūs or cornū ) ; fourth declension"
+    },
+    {
+      "lemma": "auris",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "auris",
+            "aurēs"
+          ],
+          [
+            "genitive",
+            "auris",
+            "aurium"
+          ],
+          [
+            "dative",
+            "aurī",
+            "auribus"
+          ],
+          [
+            "accusative",
+            "aurem",
+            "aurēs aurīs"
+          ],
+          [
+            "ablative",
+            "aure aurī",
+            "auribus"
+          ],
+          [
+            "vocative",
+            "auris",
+            "aurēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "auris",
+            "aurēs"
+          ],
+          [
+            "genitive",
+            "auris",
+            "aurium"
+          ],
+          [
+            "dative",
+            "aurī",
+            "auribus"
+          ],
+          [
+            "accusative",
+            "aurem",
+            "aurēs"
+          ],
+          [
+            "ablative",
+            "aure",
+            "auribus"
+          ],
+          [
+            "vocative",
+            "auris",
+            "aurēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "auris f ( genitive auris ) ; third declension",
+      "principal_parts": "auris f ( genitive auris ) ; third declension"
+    },
+    {
+      "lemma": "dēns",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "dēns",
+            "dentēs"
+          ],
+          [
+            "genitive",
+            "dentis",
+            "dentium"
+          ],
+          [
+            "dative",
+            "dentī",
+            "dentibus"
+          ],
+          [
+            "accusative",
+            "dentem",
+            "dentēs dentīs"
+          ],
+          [
+            "ablative",
+            "dente",
+            "dentibus"
+          ],
+          [
+            "vocative",
+            "dēns",
+            "dentēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "dēns",
+            "dentēs"
+          ],
+          [
+            "genitive",
+            "dentis",
+            "dentium"
+          ],
+          [
+            "dative",
+            "dentī",
+            "dentibus"
+          ],
+          [
+            "accusative",
+            "dentem",
+            "dentēs"
+          ],
+          [
+            "ablative",
+            "dente",
+            "dentibus"
+          ],
+          [
+            "vocative",
+            "dēns",
+            "dentēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "dēns m ( genitive dentis ) ; third declension",
+      "principal_parts": "dēns m ( genitive dentis ) ; third declension"
+    },
+    {
+      "lemma": "unguis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "unguis",
+            "unguēs"
+          ],
+          [
+            "genitive",
+            "unguis",
+            "unguium"
+          ],
+          [
+            "dative",
+            "unguī",
+            "unguibus"
+          ],
+          [
+            "accusative",
+            "unguem",
+            "unguēs unguīs"
+          ],
+          [
+            "ablative",
+            "ungue unguī",
+            "unguibus"
+          ],
+          [
+            "vocative",
+            "unguis",
+            "unguēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "unguis",
+            "unguēs"
+          ],
+          [
+            "genitive",
+            "unguis",
+            "unguium"
+          ],
+          [
+            "dative",
+            "unguī",
+            "unguibus"
+          ],
+          [
+            "accusative",
+            "unguem",
+            "unguēs"
+          ],
+          [
+            "ablative",
+            "ungue",
+            "unguibus"
+          ],
+          [
+            "vocative",
+            "unguis",
+            "unguēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "unguis m ( genitive unguis ) ; third declension",
+      "principal_parts": "unguis m ( genitive unguis ) ; third declension"
+    },
+    {
+      "lemma": "genū",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "genū̆ 1",
+            "genua"
+          ],
+          [
+            "genitive",
+            "genūs 2 genū 3",
+            "genuum"
+          ],
+          [
+            "dative",
+            "genū 4 genuī 2",
+            "genibus"
+          ],
+          [
+            "accusative",
+            "genū̆ 1",
+            "genua"
+          ],
+          [
+            "ablative",
+            "genū",
+            "genibus"
+          ],
+          [
+            "vocative",
+            "genū̆ 1",
+            "genua"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "genū",
+            "genua"
+          ],
+          [
+            "genitive",
+            "genūs",
+            "genuum"
+          ],
+          [
+            "dative",
+            "genū",
+            "genibus"
+          ],
+          [
+            "accusative",
+            "genū",
+            "genua"
+          ],
+          [
+            "ablative",
+            "genū",
+            "genibus"
+          ],
+          [
+            "vocative",
+            "genū",
+            "genua"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "genū̆ n ( genitive genūs or genū ) ; fourth declension",
+      "principal_parts": "genū̆ n ( genitive genūs or genū ) ; fourth declension"
+    },
+    {
+      "lemma": "venter",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "venter",
+            "ventrēs"
+          ],
+          [
+            "genitive",
+            "ventris",
+            "ventrium"
+          ],
+          [
+            "dative",
+            "ventrī",
+            "ventribus"
+          ],
+          [
+            "accusative",
+            "ventrem",
+            "ventrēs ventrīs"
+          ],
+          [
+            "ablative",
+            "ventre",
+            "ventribus"
+          ],
+          [
+            "vocative",
+            "venter",
+            "ventrēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "venter",
+            "ventrēs"
+          ],
+          [
+            "genitive",
+            "ventris",
+            "ventrium"
+          ],
+          [
+            "dative",
+            "ventrī",
+            "ventribus"
+          ],
+          [
+            "accusative",
+            "ventrem",
+            "ventrēs"
+          ],
+          [
+            "ablative",
+            "ventre",
+            "ventribus"
+          ],
+          [
+            "vocative",
+            "venter",
+            "ventrēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "venter m ( genitive ventris ) ; third declension",
+      "principal_parts": "venter m ( genitive ventris ) ; third declension"
+    },
+    {
+      "lemma": "cor",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "cor",
+            "corda"
+          ],
+          [
+            "genitive",
+            "cordis",
+            "cordium cordum"
+          ],
+          [
+            "dative",
+            "cordī",
+            "cordibus"
+          ],
+          [
+            "accusative",
+            "cor",
+            "corda"
+          ],
+          [
+            "ablative",
+            "corde",
+            "cordibus"
+          ],
+          [
+            "vocative",
+            "cor",
+            "corda"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "cor",
+            "corda"
+          ],
+          [
+            "genitive",
+            "cordis",
+            "cordium"
+          ],
+          [
+            "dative",
+            "cordī",
+            "cordibus"
+          ],
+          [
+            "accusative",
+            "cor",
+            "corda"
+          ],
+          [
+            "ablative",
+            "corde",
+            "cordibus"
+          ],
+          [
+            "vocative",
+            "cor",
+            "corda"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "cor n ( genitive cordis ) ; third declension",
+      "principal_parts": "cor n ( genitive cordis ) ; third declension"
+    },
+    {
+      "lemma": "iecur",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "iecur",
+            "iecinora iecora"
+          ],
+          [
+            "genitive",
+            "iecinoris iecoris",
+            "iecinorum iecorum"
+          ],
+          [
+            "dative",
+            "iecinorī iecorī",
+            "iecinoribus iecoribus"
+          ],
+          [
+            "accusative",
+            "iecur",
+            "iecinora iecora"
+          ],
+          [
+            "ablative",
+            "iecinore iecore",
+            "iecinoribus iecoribus"
+          ],
+          [
+            "vocative",
+            "iecur",
+            "iecinora iecora"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "iecur",
+            "iecora"
+          ],
+          [
+            "genitive",
+            "iecoris",
+            "iecorum"
+          ],
+          [
+            "dative",
+            "iecorī",
+            "iecoribus"
+          ],
+          [
+            "accusative",
+            "iecur",
+            "iecora"
+          ],
+          [
+            "ablative",
+            "iecore",
+            "iecoribus"
+          ],
+          [
+            "vocative",
+            "iecur",
+            "iecora"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "iecur n ( genitive iecinoris or iecoris ) ; third declension",
+      "principal_parts": "iecur n ( genitive iecinoris or iecoris ) ; third declension"
+    },
+    {
+      "lemma": "edō",
+      "pos": "Verb",
+      "previous_tables": [],
+      "tables": [],
+      "previous_verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "edō",
+          "infinitive": "edere",
+          "perfect": [
+            "ēdī"
+          ],
+          "supine": [
+            "ēsum",
+            "ēssum",
+            "ēstum"
+          ]
+        },
+        "conjugation": "third",
+        "overrides": {
+          "indicative.active.present.2s": [
+            "edis",
+            "ēs"
+          ],
+          "indicative.active.present.3s": [
+            "edit",
+            "ēst"
+          ],
+          "indicative.active.present.2p": [
+            "editis",
+            "ēstis"
+          ],
+          "indicative.passive.present.2s": [
+            "ederis",
+            "edere",
+            "ēssis",
+            "ēsse"
+          ],
+          "indicative.passive.present.3s": [
+            "editur",
+            "ēstur"
+          ],
+          "indicative.passive.perfect.1s": [
+            "ēsus or ēssus or ēstus + present active indicative of sum"
+          ],
+          "indicative.passive.perfect.2s": [
+            "ēsus or ēssus or ēstus + present active indicative of sum"
+          ],
+          "indicative.passive.perfect.3s": [
+            "ēsus or ēssus or ēstus + present active indicative of sum"
+          ],
+          "indicative.passive.perfect.1p": [
+            "ēsus or ēssus or ēstus + present active indicative of sum"
+          ],
+          "indicative.passive.perfect.2p": [
+            "ēsus or ēssus or ēstus + present active indicative of sum"
+          ],
+          "indicative.passive.perfect.3p": [
+            "ēsus or ēssus or ēstus + present active indicative of sum"
+          ],
+          "indicative.passive.pluperfect.1s": [
+            "ēsus or ēssus or ēstus + imperfect active indicative of sum"
+          ],
+          "indicative.passive.pluperfect.2s": [
+            "ēsus or ēssus or ēstus + imperfect active indicative of sum"
+          ],
+          "indicative.passive.pluperfect.3s": [
+            "ēsus or ēssus or ēstus + imperfect active indicative of sum"
+          ],
+          "indicative.passive.pluperfect.1p": [
+            "ēsus or ēssus or ēstus + imperfect active indicative of sum"
+          ],
+          "indicative.passive.pluperfect.2p": [
+            "ēsus or ēssus or ēstus + imperfect active indicative of sum"
+          ],
+          "indicative.passive.pluperfect.3p": [
+            "ēsus or ēssus or ēstus + imperfect active indicative of sum"
+          ],
+          "indicative.passive.future_perfect.1s": [
+            "ēsus or ēssus or ēstus + future active indicative of sum"
+          ],
+          "indicative.passive.future_perfect.2s": [
+            "ēsus or ēssus or ēstus + future active indicative of sum"
+          ],
+          "indicative.passive.future_perfect.3s": [
+            "ēsus or ēssus or ēstus + future active indicative of sum"
+          ],
+          "indicative.passive.future_perfect.1p": [
+            "ēsus or ēssus or ēstus + future active indicative of sum"
+          ],
+          "indicative.passive.future_perfect.2p": [
+            "ēsus or ēssus or ēstus + future active indicative of sum"
+          ],
+          "indicative.passive.future_perfect.3p": [
+            "ēsus or ēssus or ēstus + future active indicative of sum"
+          ],
+          "subjunctive.active.present.3s": [
+            "edat",
+            "edit",
+            "ēst"
+          ],
+          "subjunctive.active.imperfect.1s": [
+            "ederem",
+            "ēssem"
+          ],
+          "subjunctive.active.imperfect.2s": [
+            "ederēs",
+            "ēssēs"
+          ],
+          "subjunctive.active.imperfect.3s": [
+            "ederet",
+            "ēsset"
+          ],
+          "subjunctive.active.imperfect.1p": [
+            "ederēmus",
+            "ēssēmus"
+          ],
+          "subjunctive.active.imperfect.2p": [
+            "ederētis",
+            "ēssētis"
+          ],
+          "subjunctive.active.imperfect.3p": [
+            "ederent",
+            "ēssent"
+          ],
+          "subjunctive.passive.imperfect.1s": [
+            "ederer",
+            "ēsser"
+          ],
+          "subjunctive.passive.imperfect.2s": [
+            "ederēris",
+            "ederēre",
+            "ēssēris",
+            "ēssēre"
+          ],
+          "subjunctive.passive.imperfect.3s": [
+            "ederētur",
+            "ēssētur"
+          ],
+          "subjunctive.passive.imperfect.1p": [
+            "ederēmur",
+            "ēssēmur"
+          ],
+          "subjunctive.passive.imperfect.2p": [
+            "ederēminī",
+            "ēssēminī"
+          ],
+          "subjunctive.passive.imperfect.3p": [
+            "ederentur",
+            "ēssentur"
+          ],
+          "subjunctive.passive.perfect.1s": [
+            "ēsus or ēssus or ēstus + present active subjunctive of sum"
+          ],
+          "subjunctive.passive.perfect.2s": [
+            "ēsus or ēssus or ēstus + present active subjunctive of sum"
+          ],
+          "subjunctive.passive.perfect.3s": [
+            "ēsus or ēssus or ēstus + present active subjunctive of sum"
+          ],
+          "subjunctive.passive.perfect.1p": [
+            "ēsus or ēssus or ēstus + present active subjunctive of sum"
+          ],
+          "subjunctive.passive.perfect.2p": [
+            "ēsus or ēssus or ēstus + present active subjunctive of sum"
+          ],
+          "subjunctive.passive.perfect.3p": [
+            "ēsus or ēssus or ēstus + present active subjunctive of sum"
+          ],
+          "subjunctive.passive.pluperfect.1s": [
+            "ēsus or ēssus or ēstus + imperfect active subjunctive of sum"
+          ],
+          "subjunctive.passive.pluperfect.2s": [
+            "ēsus or ēssus or ēstus + imperfect active subjunctive of sum"
+          ],
+          "subjunctive.passive.pluperfect.3s": [
+            "ēsus or ēssus or ēstus + imperfect active subjunctive of sum"
+          ],
+          "subjunctive.passive.pluperfect.1p": [
+            "ēsus or ēssus or ēstus + imperfect active subjunctive of sum"
+          ],
+          "subjunctive.passive.pluperfect.2p": [
+            "ēsus or ēssus or ēstus + imperfect active subjunctive of sum"
+          ],
+          "subjunctive.passive.pluperfect.3p": [
+            "ēsus or ēssus or ēstus + imperfect active subjunctive of sum"
+          ],
+          "imperative.active.present.2s": [
+            "ede",
+            "ēs"
+          ],
+          "imperative.active.present.2p": [
+            "edite",
+            "ēste"
+          ],
+          "imperative.active.future.2s": [
+            "editō",
+            "ēstō"
+          ],
+          "imperative.active.future.3s": [
+            "editō",
+            "ēstō"
+          ],
+          "imperative.active.future.2p": [
+            "editōte",
+            "ēstōte"
+          ],
+          "imperative.passive.present.2s": [
+            "edere",
+            "ēsse"
+          ],
+          "imperative.passive.future.2s": [
+            "editor",
+            "ēstor"
+          ],
+          "imperative.passive.future.3s": [
+            "editor",
+            "ēstor"
+          ],
+          "infinitive.active.present": [
+            "edere",
+            "ēsse"
+          ]
+        }
+      },
+      "verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "edō",
+          "infinitive": "edere",
+          "perfect": [
+            "ēdī"
+          ],
+          "supine": [
+            "ēsum"
+          ]
+        },
+        "conjugation": "third",
+        "overrides": {
+          "indicative.active.present.2s": [
+            "edis",
+            "ēs"
+          ],
+          "indicative.active.present.3s": [
+            "edit",
+            "ēst"
+          ],
+          "indicative.active.present.2p": [
+            "editis",
+            "ēstis"
+          ],
+          "indicative.passive.present.2s": [
+            "ederis",
+            "edere",
+            "ēssis",
+            "ēsse"
+          ],
+          "indicative.passive.present.3s": [
+            "editur",
+            "ēstur"
+          ],
+          "subjunctive.active.present.3s": [
+            "edat"
+          ],
+          "subjunctive.active.imperfect.1s": [
+            "ederem",
+            "ēssem"
+          ],
+          "subjunctive.active.imperfect.2s": [
+            "ederēs",
+            "ēssēs"
+          ],
+          "subjunctive.active.imperfect.3s": [
+            "ederet",
+            "ēsset"
+          ],
+          "subjunctive.active.imperfect.1p": [
+            "ederēmus",
+            "ēssēmus"
+          ],
+          "subjunctive.active.imperfect.2p": [
+            "ederētis",
+            "ēssētis"
+          ],
+          "subjunctive.active.imperfect.3p": [
+            "ederent",
+            "ēssent"
+          ],
+          "subjunctive.passive.imperfect.1s": [
+            "ederer",
+            "ēsser"
+          ],
+          "subjunctive.passive.imperfect.2s": [
+            "ederēris",
+            "ederēre",
+            "ēssēris",
+            "ēssēre"
+          ],
+          "subjunctive.passive.imperfect.3s": [
+            "ederētur",
+            "ēssētur"
+          ],
+          "subjunctive.passive.imperfect.1p": [
+            "ederēmur",
+            "ēssēmur"
+          ],
+          "subjunctive.passive.imperfect.2p": [
+            "ederēminī",
+            "ēssēminī"
+          ],
+          "subjunctive.passive.imperfect.3p": [
+            "ederentur",
+            "ēssentur"
+          ],
+          "imperative.active.present.2s": [
+            "ede",
+            "ēs"
+          ],
+          "imperative.active.present.2p": [
+            "edite",
+            "ēste"
+          ],
+          "imperative.active.future.2s": [
+            "editō",
+            "ēstō"
+          ],
+          "imperative.active.future.3s": [
+            "editō",
+            "ēstō"
+          ],
+          "imperative.active.future.2p": [
+            "editōte",
+            "ēstōte"
+          ],
+          "imperative.passive.present.2s": [
+            "edere",
+            "ēsse"
+          ],
+          "imperative.passive.future.2s": [
+            "editor",
+            "ēstor"
+          ],
+          "imperative.passive.future.3s": [
+            "editor",
+            "ēstor"
+          ],
+          "infinitive.active.present": [
+            "edere",
+            "ēsse"
+          ]
+        }
+      },
+      "previous_principal_parts": "edō ( present infinitive edere or ēsse , perfect active ēdī , supine ēsum or ēssum or ēstum ) ; third conjugation , irregular alternative forms",
+      "principal_parts": "edō, edere, ēdī, ēsum · 古典ラテン語学習用"
+    },
+    {
+      "lemma": "pungō",
+      "pos": "Verb",
+      "previous_tables": [],
+      "tables": [],
+      "previous_verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "pungō",
+          "infinitive": "pungere",
+          "perfect": [
+            "pupugī",
+            "pepugī"
+          ],
+          "supine": [
+            "pūnctum"
+          ]
+        },
+        "conjugation": "third"
+      },
+      "verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "pungō",
+          "infinitive": "pungere",
+          "perfect": [
+            "pupugī"
+          ],
+          "supine": [
+            "pūnctum"
+          ]
+        },
+        "conjugation": "third"
+      },
+      "previous_principal_parts": "pungō ( present infinitive pungere , perfect active pupugī or pepugī , supine pūnctum ) ; third conjugation",
+      "principal_parts": "pungō, pungere, pupugī, pūnctum · 古典ラテン語学習用"
+    },
+    {
+      "lemma": "teneō",
+      "pos": "Verb",
+      "previous_tables": [],
+      "tables": [],
+      "previous_verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "teneō",
+          "infinitive": "tenēre",
+          "perfect": [
+            "tenuī",
+            "tetinī"
+          ],
+          "supine": [
+            "tentum"
+          ]
+        },
+        "conjugation": "second"
+      },
+      "verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "teneō",
+          "infinitive": "tenēre",
+          "perfect": [
+            "tenuī"
+          ],
+          "supine": [
+            "tentum"
+          ]
+        },
+        "conjugation": "second"
+      },
+      "previous_principal_parts": "teneō ( present infinitive tenēre , perfect active tenuī or tetinī , supine tentum ) ; second conjugation",
+      "principal_parts": "teneō, tenēre, tenuī, tentum · 古典ラテン語学習用"
+    },
+    {
+      "lemma": "lavō",
+      "pos": "Verb",
+      "previous_tables": [],
+      "tables": [],
+      "previous_verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "lavō",
+          "infinitive": "lavāre",
+          "perfect": [
+            "lāvī"
+          ],
+          "supine": [
+            "lavātum",
+            "lōtum",
+            "lautum"
+          ]
+        },
+        "conjugation": "first"
+      },
+      "verb": {
+        "kind": "regular",
+        "principal_parts": {
+          "present": "lavō",
+          "infinitive": "lavāre",
+          "perfect": [
+            "lāvī"
+          ],
+          "supine": [
+            "lautum",
+            "lōtum"
+          ]
+        },
+        "conjugation": "first"
+      },
+      "previous_principal_parts": "lavō ( present infinitive lavāre , perfect active lāvī , supine lavātum or lōtum or lautum ) ; first conjugation",
+      "principal_parts": "lavō, lavāre, lāvī, lautum / lōtum · 古典ラテン語学習用"
+    },
+    {
+      "lemma": "mare",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "mare",
+            "maria"
+          ],
+          [
+            "genitive",
+            "maris",
+            "marium marum"
+          ],
+          [
+            "dative",
+            "marī",
+            "maribus"
+          ],
+          [
+            "accusative",
+            "mare",
+            "maria"
+          ],
+          [
+            "ablative",
+            "marī mare",
+            "maribus"
+          ],
+          [
+            "vocative",
+            "mare",
+            "maria"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "mare",
+            "maria"
+          ],
+          [
+            "genitive",
+            "maris",
+            "marium"
+          ],
+          [
+            "dative",
+            "marī",
+            "maribus"
+          ],
+          [
+            "accusative",
+            "mare",
+            "maria"
+          ],
+          [
+            "ablative",
+            "marī",
+            "maribus"
+          ],
+          [
+            "vocative",
+            "mare",
+            "maria"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "mare n ( genitive maris ) ; third declension",
+      "principal_parts": "mare n ( genitive maris ) ; third declension"
+    },
+    {
+      "lemma": "sāl",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "sāl",
+            "salēs"
+          ],
+          [
+            "genitive",
+            "salis",
+            "salum"
+          ],
+          [
+            "dative",
+            "salī",
+            "salibus"
+          ],
+          [
+            "accusative",
+            "salem sāl",
+            "salēs"
+          ],
+          [
+            "ablative",
+            "sale",
+            "salibus"
+          ],
+          [
+            "vocative",
+            "sāl",
+            "salēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "sāl",
+            "salēs"
+          ],
+          [
+            "genitive",
+            "salis",
+            "salum"
+          ],
+          [
+            "dative",
+            "salī",
+            "salibus"
+          ],
+          [
+            "accusative",
+            "salem",
+            "salēs"
+          ],
+          [
+            "ablative",
+            "sale",
+            "salibus"
+          ],
+          [
+            "vocative",
+            "sāl",
+            "salēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "sāl m or n ( genitive salis ) ; third declension",
+      "principal_parts": "sāl m or n ( genitive salis ) ; third declension"
+    },
+    {
+      "lemma": "humus",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "humus",
+            "humī"
+          ],
+          [
+            "genitive",
+            "humī",
+            "humōrum"
+          ],
+          [
+            "dative",
+            "humō",
+            "humīs"
+          ],
+          [
+            "accusative",
+            "humum",
+            "humōs"
+          ],
+          [
+            "ablative",
+            "humō humū",
+            "humīs"
+          ],
+          [
+            "vocative",
+            "hume",
+            "humī"
+          ],
+          [
+            "locative",
+            "humī",
+            "—"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "humus",
+            "humī"
+          ],
+          [
+            "genitive",
+            "humī",
+            "humōrum"
+          ],
+          [
+            "dative",
+            "humō",
+            "humīs"
+          ],
+          [
+            "accusative",
+            "humum",
+            "humōs"
+          ],
+          [
+            "ablative",
+            "humō",
+            "humīs"
+          ],
+          [
+            "vocative",
+            "hume",
+            "humī"
+          ],
+          [
+            "locative",
+            "humī",
+            "—"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "humus f ( genitive humī ) ; second declension",
+      "principal_parts": "humus f ( genitive humī ) ; second declension"
+    },
+    {
+      "lemma": "nūbēs",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "nūbēs",
+            "nūbēs"
+          ],
+          [
+            "genitive",
+            "nūbis",
+            "nūbium"
+          ],
+          [
+            "dative",
+            "nūbī",
+            "nūbibus"
+          ],
+          [
+            "accusative",
+            "nūbem",
+            "nūbēs nūbīs"
+          ],
+          [
+            "ablative",
+            "nūbe",
+            "nūbibus"
+          ],
+          [
+            "vocative",
+            "nūbēs",
+            "nūbēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "nūbēs",
+            "nūbēs"
+          ],
+          [
+            "genitive",
+            "nūbis",
+            "nūbium"
+          ],
+          [
+            "dative",
+            "nūbī",
+            "nūbibus"
+          ],
+          [
+            "accusative",
+            "nūbem",
+            "nūbēs"
+          ],
+          [
+            "ablative",
+            "nūbe",
+            "nūbibus"
+          ],
+          [
+            "vocative",
+            "nūbēs",
+            "nūbēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "nūbēs f ( genitive nūbis ) ; third declension",
+      "principal_parts": "nūbēs f ( genitive nūbis ) ; third declension"
+    },
+    {
+      "lemma": "nix",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "nix",
+            "nivēs"
+          ],
+          [
+            "genitive",
+            "nivis",
+            "nivium"
+          ],
+          [
+            "dative",
+            "nivī",
+            "nivibus"
+          ],
+          [
+            "accusative",
+            "nivem",
+            "nivēs nivīs"
+          ],
+          [
+            "ablative",
+            "nive",
+            "nivibus"
+          ],
+          [
+            "vocative",
+            "nix",
+            "nivēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "nix",
+            "nivēs"
+          ],
+          [
+            "genitive",
+            "nivis",
+            "nivium"
+          ],
+          [
+            "dative",
+            "nivī",
+            "nivibus"
+          ],
+          [
+            "accusative",
+            "nivem",
+            "nivēs"
+          ],
+          [
+            "ablative",
+            "nive",
+            "nivibus"
+          ],
+          [
+            "vocative",
+            "nix",
+            "nivēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "nix f ( genitive nivis ) ; third declension",
+      "principal_parts": "nix f ( genitive nivis ) ; third declension"
+    },
+    {
+      "lemma": "gelū",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular"
+          ],
+          [
+            "nominative",
+            "gelū̆ 1"
+          ],
+          [
+            "genitive",
+            "gelūs 2 gelū 3"
+          ],
+          [
+            "dative",
+            "gelū 4 geluī 2"
+          ],
+          [
+            "accusative",
+            "gelū̆ 1"
+          ],
+          [
+            "ablative",
+            "gelū"
+          ],
+          [
+            "vocative",
+            "gelū̆ 1"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular"
+          ],
+          [
+            "nominative",
+            "gelū"
+          ],
+          [
+            "genitive",
+            "gelūs"
+          ],
+          [
+            "dative",
+            "gelū"
+          ],
+          [
+            "accusative",
+            "gelū"
+          ],
+          [
+            "ablative",
+            "gelū"
+          ],
+          [
+            "vocative",
+            "gelū"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "gelū̆ n sg ( genitive gelūs or gelū ) ; fourth declension",
+      "principal_parts": "gelū̆ n sg ( genitive gelūs or gelū ) ; fourth declension"
+    },
+    {
+      "lemma": "ignis",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "ignis",
+            "ignēs"
+          ],
+          [
+            "genitive",
+            "ignis",
+            "ignium"
+          ],
+          [
+            "dative",
+            "ignī",
+            "ignibus"
+          ],
+          [
+            "accusative",
+            "ignem",
+            "ignēs ignīs"
+          ],
+          [
+            "ablative",
+            "ignī igne",
+            "ignibus"
+          ],
+          [
+            "vocative",
+            "ignis",
+            "ignēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "ignis",
+            "ignēs"
+          ],
+          [
+            "genitive",
+            "ignis",
+            "ignium"
+          ],
+          [
+            "dative",
+            "ignī",
+            "ignibus"
+          ],
+          [
+            "accusative",
+            "ignem",
+            "ignēs"
+          ],
+          [
+            "ablative",
+            "igne",
+            "ignibus"
+          ],
+          [
+            "vocative",
+            "ignis",
+            "ignēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "ignis m ( genitive ignis ) ; third declension",
+      "principal_parts": "ignis m ( genitive ignis ) ; third declension"
+    },
+    {
+      "lemma": "mōns",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "mōns",
+            "montēs"
+          ],
+          [
+            "genitive",
+            "montis",
+            "montium"
+          ],
+          [
+            "dative",
+            "montī",
+            "montibus"
+          ],
+          [
+            "accusative",
+            "montem",
+            "montēs montīs"
+          ],
+          [
+            "ablative",
+            "monte",
+            "montibus"
+          ],
+          [
+            "vocative",
+            "mōns",
+            "montēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "mōns",
+            "montēs"
+          ],
+          [
+            "genitive",
+            "montis",
+            "montium"
+          ],
+          [
+            "dative",
+            "montī",
+            "montibus"
+          ],
+          [
+            "accusative",
+            "montem",
+            "montēs"
+          ],
+          [
+            "ablative",
+            "monte",
+            "montibus"
+          ],
+          [
+            "vocative",
+            "mōns",
+            "montēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "mōns m ( genitive montis ) ; third declension",
+      "principal_parts": "mōns m ( genitive montis ) ; third declension"
+    },
+    {
+      "lemma": "viridis",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "viridis",
+            "viride",
+            "",
+            "viridēs",
+            "viridia"
+          ],
+          [
+            "genitive",
+            "viridis",
+            "viridis",
+            "",
+            "viridium",
+            "viridium"
+          ],
+          [
+            "dative",
+            "viridī",
+            "viridī",
+            "",
+            "viridibus",
+            "viridibus"
+          ],
+          [
+            "accusative",
+            "viridem",
+            "viride",
+            "",
+            "viridīs viridēs",
+            "viridia"
+          ],
+          [
+            "ablative",
+            "viridī",
+            "viridī",
+            "",
+            "viridibus",
+            "viridibus"
+          ],
+          [
+            "vocative",
+            "viridis",
+            "viride",
+            "",
+            "viridēs",
+            "viridia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "viridis",
+            "viride",
+            "",
+            "viridēs",
+            "viridia"
+          ],
+          [
+            "genitive",
+            "viridis",
+            "viridis",
+            "",
+            "viridium",
+            "viridium"
+          ],
+          [
+            "dative",
+            "viridī",
+            "viridī",
+            "",
+            "viridibus",
+            "viridibus"
+          ],
+          [
+            "accusative",
+            "viridem",
+            "viride",
+            "",
+            "viridīs",
+            "viridia"
+          ],
+          [
+            "ablative",
+            "viridī",
+            "viridī",
+            "",
+            "viridibus",
+            "viridibus"
+          ],
+          [
+            "vocative",
+            "viridis",
+            "viride",
+            "",
+            "viridēs",
+            "viridia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "viridis ( neuter viride , comparative viridior , superlative viridissimus ) ; third-declension two-termination adjective",
+      "principal_parts": "viridis ( neuter viride , comparative viridior , superlative viridissimus ) ; third-declension two-termination adjective"
+    },
+    {
+      "lemma": "nox",
+      "pos": "Noun",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "nox",
+            "noctēs"
+          ],
+          [
+            "genitive",
+            "noctis",
+            "noctium"
+          ],
+          [
+            "dative",
+            "noctī",
+            "noctibus"
+          ],
+          [
+            "accusative",
+            "noctem",
+            "noctēs noctīs"
+          ],
+          [
+            "ablative",
+            "nocte noctū",
+            "noctibus"
+          ],
+          [
+            "vocative",
+            "nox",
+            "noctēs"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "plural"
+          ],
+          [
+            "nominative",
+            "nox",
+            "noctēs"
+          ],
+          [
+            "genitive",
+            "noctis",
+            "noctium"
+          ],
+          [
+            "dative",
+            "noctī",
+            "noctibus"
+          ],
+          [
+            "accusative",
+            "noctem",
+            "noctēs"
+          ],
+          [
+            "ablative",
+            "nocte",
+            "noctibus"
+          ],
+          [
+            "vocative",
+            "nox",
+            "noctēs"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "nox f ( genitive noctis ) ; third declension",
+      "principal_parts": "nox f ( genitive noctis ) ; third declension"
+    },
+    {
+      "lemma": "vetus",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "vetus",
+            "vetus",
+            "",
+            "veterēs",
+            "vetera"
+          ],
+          [
+            "genitive",
+            "veteris",
+            "veteris",
+            "",
+            "veterum",
+            "veterum"
+          ],
+          [
+            "dative",
+            "veterī",
+            "veterī",
+            "",
+            "veteribus",
+            "veteribus"
+          ],
+          [
+            "accusative",
+            "veterem",
+            "vetus",
+            "",
+            "veterīs veterēs",
+            "vetera"
+          ],
+          [
+            "ablative",
+            "vetere",
+            "vetere",
+            "",
+            "veteribus",
+            "veteribus"
+          ],
+          [
+            "vocative",
+            "vetus",
+            "vetus",
+            "",
+            "veterēs",
+            "vetera"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "vetus",
+            "vetus",
+            "",
+            "veterēs",
+            "vetera"
+          ],
+          [
+            "genitive",
+            "veteris",
+            "veteris",
+            "",
+            "veterum",
+            "veterum"
+          ],
+          [
+            "dative",
+            "veterī",
+            "veterī",
+            "",
+            "veteribus",
+            "veteribus"
+          ],
+          [
+            "accusative",
+            "veterem",
+            "vetus",
+            "",
+            "veterēs",
+            "vetera"
+          ],
+          [
+            "ablative",
+            "vetere",
+            "vetere",
+            "",
+            "veteribus",
+            "veteribus"
+          ],
+          [
+            "vocative",
+            "vetus",
+            "vetus",
+            "",
+            "veterēs",
+            "vetera"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "vetus ( genitive veteris , comparative vetustior or veterior , superlative vetustissimus or veterrimus ) ; third-declension one-termination adjective (non-i-stem)",
+      "principal_parts": "vetus ( genitive veteris , comparative vetustior or veterior , superlative vetustissimus or veterrimus ) ; third-declension one-termination adjective (non-i-stem)"
+    },
+    {
+      "lemma": "hebes",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "hebes",
+            "hebes",
+            "",
+            "hebetēs",
+            "hebetia"
+          ],
+          [
+            "genitive",
+            "hebetis",
+            "hebetis",
+            "",
+            "hebetium",
+            "hebetium"
+          ],
+          [
+            "dative",
+            "hebetī",
+            "hebetī",
+            "",
+            "hebetibus",
+            "hebetibus"
+          ],
+          [
+            "accusative",
+            "hebetem",
+            "hebes",
+            "",
+            "hebetīs hebetēs",
+            "hebetia"
+          ],
+          [
+            "ablative",
+            "hebetī hebete",
+            "hebetī hebete",
+            "",
+            "hebetibus",
+            "hebetibus"
+          ],
+          [
+            "vocative",
+            "hebes",
+            "hebes",
+            "",
+            "hebetēs",
+            "hebetia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "hebes",
+            "hebes",
+            "",
+            "hebetēs",
+            "hebetia"
+          ],
+          [
+            "genitive",
+            "hebetis",
+            "hebetis",
+            "",
+            "hebetium",
+            "hebetium"
+          ],
+          [
+            "dative",
+            "hebetī",
+            "hebetī",
+            "",
+            "hebetibus",
+            "hebetibus"
+          ],
+          [
+            "accusative",
+            "hebetem",
+            "hebes",
+            "",
+            "hebetēs",
+            "hebetia"
+          ],
+          [
+            "ablative",
+            "hebete",
+            "hebete",
+            "",
+            "hebetibus",
+            "hebetibus"
+          ],
+          [
+            "vocative",
+            "hebes",
+            "hebes",
+            "",
+            "hebetēs",
+            "hebetia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "hebes ( genitive hebetis , comparative hebetior , superlative hebetissimus ) ; third-declension one-termination adjective",
+      "principal_parts": "hebes ( genitive hebetis , comparative hebetior , superlative hebetissimus ) ; third-declension one-termination adjective"
+    },
+    {
+      "lemma": "suāvis",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "suāvis",
+            "suāve",
+            "",
+            "suāvēs",
+            "suāvia"
+          ],
+          [
+            "genitive",
+            "suāvis",
+            "suāvis",
+            "",
+            "suāvium",
+            "suāvium"
+          ],
+          [
+            "dative",
+            "suāvī",
+            "suāvī",
+            "",
+            "suāvibus",
+            "suāvibus"
+          ],
+          [
+            "accusative",
+            "suāvem",
+            "suāve",
+            "",
+            "suāvīs suāvēs",
+            "suāvia"
+          ],
+          [
+            "ablative",
+            "suāvī",
+            "suāvī",
+            "",
+            "suāvibus",
+            "suāvibus"
+          ],
+          [
+            "vocative",
+            "suāvis",
+            "suāve",
+            "",
+            "suāvēs",
+            "suāvia"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masc./fem.",
+            "neuter",
+            "",
+            "masc./fem.",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "suāvis",
+            "suāve",
+            "",
+            "suāvēs",
+            "suāvia"
+          ],
+          [
+            "genitive",
+            "suāvis",
+            "suāvis",
+            "",
+            "suāvium",
+            "suāvium"
+          ],
+          [
+            "dative",
+            "suāvī",
+            "suāvī",
+            "",
+            "suāvibus",
+            "suāvibus"
+          ],
+          [
+            "accusative",
+            "suāvem",
+            "suāve",
+            "",
+            "suāvīs",
+            "suāvia"
+          ],
+          [
+            "ablative",
+            "suāvī",
+            "suāvī",
+            "",
+            "suāvibus",
+            "suāvibus"
+          ],
+          [
+            "vocative",
+            "suāvis",
+            "suāve",
+            "",
+            "suāvēs",
+            "suāvia"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "suāvis ( neuter suāve , comparative suāvior , superlative suāvissimus , adverb suāve or suāviter ) ; third-declension two-termination adjective",
+      "principal_parts": "suāvis ( neuter suāve , comparative suāvior , superlative suāvissimus , adverb suāve or suāviter ) ; third-declension two-termination adjective"
+    },
+    {
+      "lemma": "dexter",
+      "pos": "Adjective",
+      "previous_tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "dexter",
+            "dextra dextera",
+            "dextrum dexterum",
+            "",
+            "dextrī dexterī",
+            "dextrae dexterae",
+            "dextra dextera"
+          ],
+          [
+            "genitive",
+            "dextrī dexterī",
+            "dextrae dexterae",
+            "dextrī dexterī",
+            "",
+            "dextrōrum dexterōrum",
+            "dextrārum dexterārum",
+            "dextrōrum dexterōrum"
+          ],
+          [
+            "dative",
+            "dextrō dexterō",
+            "dextrae dexterae",
+            "dextrō dexterō",
+            "",
+            "dextrīs dexterīs",
+            "dextrīs dexterīs",
+            "dextrīs dexterīs"
+          ],
+          [
+            "accusative",
+            "dextrum dexterum",
+            "dextram dexteram",
+            "dextrum dexterum",
+            "",
+            "dextrōs dexterōs",
+            "dextrās dexterās",
+            "dextra dextera"
+          ],
+          [
+            "ablative",
+            "dextrō dexterō",
+            "dextrā dexterā",
+            "dextrō dexterō",
+            "",
+            "dextrīs dexterīs",
+            "dextrīs dexterīs",
+            "dextrīs dexterīs"
+          ],
+          [
+            "vocative",
+            "dexter",
+            "dextra dextera",
+            "dextrum dexterum",
+            "",
+            "dextrī dexterī",
+            "dextrae dexterae",
+            "dextra dextera"
+          ]
+        ]
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "singular",
+            "singular",
+            "singular",
+            "",
+            "plural",
+            "plural",
+            "plural"
+          ],
+          [
+            "",
+            "masculine",
+            "feminine",
+            "neuter",
+            "",
+            "masculine",
+            "feminine",
+            "neuter"
+          ],
+          [
+            "nominative",
+            "dexter",
+            "dextra",
+            "dextrum",
+            "",
+            "dextrī",
+            "dextrae",
+            "dextra"
+          ],
+          [
+            "genitive",
+            "dextrī",
+            "dextrae",
+            "dextrī",
+            "",
+            "dextrōrum",
+            "dextrārum",
+            "dextrōrum"
+          ],
+          [
+            "dative",
+            "dextrō",
+            "dextrae",
+            "dextrō",
+            "",
+            "dextrīs",
+            "dextrīs",
+            "dextrīs"
+          ],
+          [
+            "accusative",
+            "dextrum",
+            "dextram",
+            "dextrum",
+            "",
+            "dextrōs",
+            "dextrās",
+            "dextra"
+          ],
+          [
+            "ablative",
+            "dextrō",
+            "dextrā",
+            "dextrō",
+            "",
+            "dextrīs",
+            "dextrīs",
+            "dextrīs"
+          ],
+          [
+            "vocative",
+            "dexter",
+            "dextra",
+            "dextrum",
+            "",
+            "dextrī",
+            "dextrae",
+            "dextra"
+          ]
+        ]
+      ],
+      "previous_verb": null,
+      "verb": null,
+      "previous_principal_parts": "dexter ( feminine dextra or dextera , neuter dextrum or dexterum , comparative dexterior , superlative dextimus ) ; first / second-declension adjective (nominative masculine singular in -er ; two different stems)",
+      "principal_parts": "dexter ( feminine dextra or dextera , neuter dextrum or dexterum , comparative dexterior , superlative dextimus ) ; first / second-declension adjective (nominative masculine singular in -er ; two different stems)"
+    }
+  ]
+}
